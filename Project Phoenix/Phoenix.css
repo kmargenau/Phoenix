@@ -1,0 +1,32 @@
+body{
+	background: #4d4d4d;
+    color: #ff3300;
+    -webkit-text-stroke: .5px;
+    -webkit-text-stroke-color: #000000;
+}
+.fa-phoenix-framework{
+	color:#ff3300;
+}
+
+.navbar{
+	background: black;
+}
+
+a{
+	color: orange;
+}
+
+.home-header{
+	font-family: orbitron;
+	font-size: 4rem;
+}
+
+.home{
+	margin-left: 25px;
+	margin-right:25px;
+}
+
+p{
+	font-size:1.3rem;
+}
+
